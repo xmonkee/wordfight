@@ -1,0 +1,9 @@
+{
+	"require": {
+		"mikecao/flight" : "dev-master"
+			},
+	"autoload": {
+		"classmap" : ["public/"]
+		}
+
+}

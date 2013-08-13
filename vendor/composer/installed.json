@@ -1,0 +1,42 @@
+[
+    {
+        "name": "mikecao/flight",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mikecao/flight.git",
+            "reference": "618c2f1d870e73f9f1593924e14f5e4a65be5448"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mikecao/flight/zipball/618c2f1d870e73f9f1593924e14f5e4a65be5448",
+            "reference": "618c2f1d870e73f9f1593924e14f5e4a65be5448",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2013-08-04 04:39:18",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "files": [
+                "flight/Flight.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Mike Cao",
+                "email": "mike@mikecao.com",
+                "homepage": "http://www.mikecao.com/",
+                "role": "Original Developer"
+            }
+        ],
+        "description": "Flight is a fast, simple, extensible framework for PHP. Flight enables you to quickly and easily build RESTful web applications."
+    }
+]
